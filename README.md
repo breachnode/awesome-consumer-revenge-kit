@@ -5,9 +5,10 @@
 Something already went wrong: a bureau won't fix your report, a collector won't stop calling, a company kept billing a cancelled subscription, an airline handed you a voucher instead of the refund the law requires. "Revenge" here isn't payback — it's paperwork with teeth. Every entry names the exact lever: the right regulator, the right statute, the right deadline, the right paper trail.
 
 **Breachnode Field Guide № 2.** Maintained by [Breachnode](https://github.com/breachnode) — an independent cybersecurity threat researcher (hobbyist, self-directed) who cites the primary source for every claim on this page.
+
 > ⚖️ **NOT LEGAL ADVICE.** This list is educational information about consumer rights and complaint processes, written for general use in the United States. It is **not** legal advice, it does not create an attorney–client relationship, and it is not a substitute for a lawyer. Deadlines, dollar limits and procedures **vary by state and change over time** — and, as the "zombie rules" note below shows, rules get vacated by courts. Verify every deadline and right at the linked primary source before you act, and for anything involving a lawsuit, a foreclosure, an eviction or serious money, talk to a consumer attorney (the attorney finder in [Small Claims & Paper Trails](#-small-claims--paper-trails) can find one who takes consumer cases).
 
-> **The border of this list:** the *long institutional fight* lives here — disputes, complaint escalations, opt-outs, statutory deadlines. Prevention, in-the-moment verification and the first 72 hours after a scam live in the sister list, **[Awesome Scam Defense](https://github.com/breachnode/awesome-scam-defense)** (Breachnode Field Guide № 1). Veterans: your dedicated list is **Veteran Arsenal** *(in development)*.
+> **The border of this list:** the *long institutional fight* lives here — disputes, complaint escalations, opt-outs, statutory deadlines. Prevention, in-the-moment verification and the first 72 hours after a scam live in the sister list, **[Awesome Scam Defense](https://github.com/breachnode/awesome-scam-defense)** (Breachnode Field Guide № 1). Veterans: your dedicated list is **[Veteran Arsenal](https://github.com/breachnode/awesome-veteran-arsenal)** (Breachnode Field Guide № 3).
 
 > 🧟 **Zombie rules — things the internet says you have that you don't (checked November 2026):**
 > - **"Federal click-to-cancel."** The FTC's click-to-cancel rule was **vacated by the Eighth Circuit on July 8, 2025**, before it ever took effect. What actually governs online subscriptions is [ROSCA](#-subscriptions--dark-patterns), the FTC Act, and state auto-renewal laws.
@@ -18,7 +19,7 @@ Something already went wrong: a bureau won't fix your report, a collector won't 
 
 ## How to use this list
 
-- **Bureau won't fix an error?** Start with [Credit Reports & Freezes](#-credit-reports--freezes) — and learn the 30-day clock.
+- **Bureau won't fix an error?** Start with [Credit Reports & Freezes](#-credit-reports--freezes) — and learn the 30-day clock. Then check [the other bureaus](#-secondary--specialty-reporting-agencies--the-other-bureaus) most people never hear about.
 - **A collector is calling?** [Debt Collection](#-debt-collection). The validation letter is the first move, not the last.
 - **A company "can't find" your cancellation?** [Subscriptions & Dark Patterns](#-subscriptions--dark-patterns), then dispute the charges under [Banks, Cards & Chargebacks](#-banks-cards--chargebacks).
 - **Done being polite?** [Regulators & Escalation](#-regulators--escalation) — complaints to the right agency routinely succeed where ten phone calls failed.
@@ -35,6 +36,7 @@ Something already went wrong: a bureau won't fix your report, a collector won't 
 ## Contents
 
 - [🧾 Credit Reports & Freezes](#-credit-reports--freezes)
+- [📋 Secondary & Specialty Reporting Agencies — The Other Bureaus](#-secondary--specialty-reporting-agencies--the-other-bureaus)
 - [🆔 Identity-Theft Recovery](#-identity-theft-recovery)
 - [📬 Debt Collection](#-debt-collection)
 - [🏦 Banks, Cards & Chargebacks](#-banks-cards--chargebacks)
@@ -65,6 +67,62 @@ Your credit report is the institution's version of you. The Fair Credit Reportin
 - **[ChexSystems](https://www.chexsystems.com)** — The specialty bureau behind bank-account denials. It's an FCRA consumer reporting agency: you can get your report, dispute it, and freeze it exactly like a credit bureau — most people never learn it exists. `Free`
 - **[OptOutPrescreen.com](https://www.optoutprescreen.com)** — The bureaus' official opt-out for prescreened credit-card and insurance offers: **5 years** online, **permanent** by signed mail-in form. Fewer pre-approved offers in your mailbox means fewer stolen applications in your name. `Free`
 - 📋 **Free report after adverse action** — Denied credit, a job or housing based on a report? The notice must name the bureau, and you have **60 days** to get that report free (FCRA § 612) — even if you already pulled your free ones. The adverse-action notice is a document; demand it in writing. `Free`
+
+## 📋 Secondary & Specialty Reporting Agencies — The Other Bureaus
+
+Equifax, Experian and TransUnion are not the only companies keeping a file on you. Dozens of smaller companies keep files too. They are called **specialty reporting agencies** (also called secondary bureaus). Each one tracks one slice of your life: your bank accounts, your rent, your paychecks, your insurance claims, even your store returns. A bad file at one of them can get you turned down for a bank account, an apartment, a job or a loan — and you may never have heard the company's name.
+
+Three words used below, in plain English:
+
+- **Security freeze** — a lock you put on your file. While it is on, the company cannot hand your report to most new lenders or businesses. You lift it when you want to apply for something. Freezes are free.
+- **Fraud alert** — a note on your file that tells a business to check your identity extra carefully before it approves anything. It warns. It does not lock.
+- **Adverse action** — when a company says no, or charges you more, because of something in a report. The law says they must tell you which company's report they used.
+
+- **[CFPB: List of consumer reporting companies](https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/)** — The government's master list of these companies, kept by the Consumer Financial Protection Bureau. This is the "is there another one?" page. If a company keeps a file on you, it is probably listed here, with its phone number and address. `Free`
+- 📋 **Your rights are the same at every company below** — A federal law called the Fair Credit Reporting Act (FCRA) covers all of them, big and small. You can get a free copy of your file (most give one every 12 months). You can dispute anything that is wrong, and the company must look into it. If you are turned down because of a report, you can ask for that report free within 60 days. Asking for your own file never hurts your credit. `Free`
+- 📋 **One freeze does not cover the others** — A freeze only locks the file at the company you asked. Freezing Equifax does nothing at ChexSystems or Innovis. To lock everything down, you have to ask each company, one by one. The list below is that workload — and it is shorter than it looks. `Free`
+
+### 🏦 Bank accounts and checks
+
+- **[ChexSystems](https://www.chexsystems.com)** — Tracks how you have handled bank accounts: openings, closings, and problems like bounced checks or unpaid fees. A bad ChexSystems file is the usual reason a bank says no to a new account. Free report (and free score) once every 12 months, and you can dispute errors. **Freeze: yes** — ask online in its Consumer Portal, call 800-887-7652, or write in. The freeze is free, and you get a PIN to lift it. `Free`
+- **[Early Warning Services](https://www.earlywarning.com/dispute-file-disclosure)** — Owned by several big banks. It collects bank-account and payment-fraud information, and it runs Zelle. Free report once every 12 months (call 800-745-1560). Disputes are taken online, in writing, or by fax. **Freeze: no** — Early Warning does not offer one. Your tools here are the free report and a dispute. `Free`
+- **[TeleCheck](https://getassistance.telecheck.com/index.html)** — Keeps a history of the checks you write. Stores and banks check it before they accept a check from you. Free report once every 12 months; help line 800-366-2425. **Freeze: no** — TeleCheck does not list one. Get the report, and dispute what is wrong. `Free`
+- **[Certegy Payment Solutions](https://askcertegy.com/check-search)** — Tells stores whether to accept your check or electronic payment. Free report once every 12 months; call 800-237-3826. **Freeze: no** — report and dispute only. `Free`
+
+### 🔢 The fourth bureau and alternative-credit bureaus
+
+These companies sell reports on people the big three know little about: thin files, short-term loans, rent-to-own deals. If you have ever taken a payday or installment loan, one of these probably has your name.
+
+- **[Innovis](https://www.innovis.com/personal/securityFreeze)** — Often called the "fourth bureau." It keeps credit and identity-check data, much like the big three. Free report once every 12 months. **Freeze: yes** — ask online, call 800-540-2505, or write in. Innovis mails you a confirmation letter with a PIN. `Free`
+- **[LexisNexis Risk Solutions](https://consumer.risk.lexisnexis.com/consumer)** — Collects public records — court records, liens, property, licenses, past addresses — and sells them to banks, insurers and government agencies. Free report once every 12 months from its Consumer Center, where disputes are handled too. **Freeze: yes** — and one freeze request at LexisNexis also covers its SageStream file (next entry). `Free`
+- **[SageStream](https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/sage-stream/)** — Owned by LexisNexis. It sells extra reports and scores to car lenders, card issuers, stores, utilities and phone companies. Free report once every 12 months. **Freeze: yes** — requests go through the LexisNexis Consumer Center (call 866-897-8126), and the LexisNexis freeze covers SageStream too. `Free`
+- **[Clarity Services](https://www.clarityservices.com/)** — Owned by Experian. It tracks payday, installment and auto-title loans, rent-to-own deals, check cashing, and phone-account openings. Free report and free score once every 12 months. **Freeze: yes** — call 866-390-3118 (option 1 is the freeze line) or write in. `Free`
+- **[FactorTrust](https://www.transunion.com/client-support/factortrust-consumer-inquiry)** — Owned by TransUnion. It tracks how you paid short-term and other nonprime loans. Free report once every 12 months. **Freeze: yes** — ask online or by mail. One warning: FactorTrust no longer offers fraud alerts, so the freeze is the tool to use. `Free`
+- **[DataX](https://consumers.dataxltd.com/consumerCreditFreeze)** — Owned by Equifax. It tracks payday and installment loan payments and subprime credit cards. Free report once every 12 months. **Freeze: yes** — free, online or by mail, on DataX's own consumer site. `Free`
+- **[Teletrack](https://consumers.teletrack.com/freeze)** — Tracks payday loans, rent-to-own deals, car financing and other subprime borrowing. Free report once every 12 months. **Freeze: yes** — its consumer site has its own freeze page. Note: Teletrack is now part of DataX (both are Equifax companies), so check both files. `Free`
+- **[MicroBilt / PRBC](https://www.microbiltconnect.com/consumer-affairs)** — Tracks how you pay everyday bills — rent, utilities, phone, insurance — for short-term, rent-to-own, auto and retail lenders. Free report once every 12 months, by mail or phone (888-222-7621). **Freeze: yes, with a catch** — MicroBilt says freeze rights can depend on your state's law, and it takes freeze requests by mail or phone. There is no simple online button. `Free`
+
+### 🧑‍💼 Jobs, apartments and your paycheck
+
+- **[First Advantage](https://fadv.com/candidates/free-report/)** — Runs background checks for jobs and apartment buildings, including court records and landlord-tenant records. Free copy of your file once every 12 months: call 800-845-6004, email consumer.documents@fadv.com, or write in. Disputes use the same routes. **Freeze: yes** — ask by phone, email or mail. `Free`
+- **[HireRight](https://support.hireright.com/en-US/articles/dispute-the-accuracy-of-my-background-report-or-testing-results)** — One of the biggest job background-check companies. If it has a file on you, you can get a free copy. Disputes are free too: file online, call 866-521-6995, or write in. **Freeze: no** — HireRight does not offer one. The report and the dispute are the tools. `Free`
+- **[The Work Number (Equifax)](https://employees.theworknumber.com/faq)** — Holds your job and pay history, sent in by employers and payroll companies. Lenders, employers and benefit agencies use it to check your income. You can see your own Employment Data Report free online, and dispute errors there or at 866-222-5880. **Freeze: yes** — it is called an "employment data freeze." Send the freeze form by email or mail; The Work Number says it processes the request within three days. `Free`
+- **[RealPage (LeasingDesk)](https://www.realpage.com/support/consumer/)** — Screens people who apply for apartments. Free copy of your report: call 1-866-934-1124, email LDSConsumerInquiry@realpage.com, or write in. Disputes go through its Consumer Dispute Form, fax or mail. **Freeze: no** — report and dispute only. `Free`
+- **[SafeRent Solutions](https://saferentsolutions.com/consumer-support/)** — Screens renters for landlords and gives each applicant a risk score. Free copy of your file once every 12 months. **Freeze: yes** — fill in SafeRent's own freeze form and send it by email or mail (questions: 888-333-2413). The freeze covers only your SafeRent file, not your credit reports. `Free`
+
+### 🛡️ Insurance files
+
+- **[LexisNexis C.L.U.E.](https://consumer.risk.lexisnexis.com/consumer)** — C.L.U.E. keeps up to seven years of your car and home insurance claims. Insurers read it before they set your price. Get it free once every 12 months through the LexisNexis Consumer Center — it comes as part of your LexisNexis report, and disputes are handled there too. **Freeze: yes** — the LexisNexis freeze covers this file too. `Free`
+- **[MIB](https://www.mib.com/request_your_record.html)** — MIB keeps short coded notes from your applications for life, health, disability or long-term-care insurance: health conditions and risky activities an insurer reported. You only have a file if you applied for one of those policies and something was reported. Free copy once every 12 months, if a file exists. **Freeze: no** — MIB does not offer one. Get the file and dispute anything wrong; disputes are free. `Free`
+- **[A-PLUS (Verisk)](https://fcra.verisk.com)** — Another insurance claims database: loss history for homes, cars and other property. Some insurers check A-PLUS instead of C.L.U.E., or along with it. Free report once every 12 months: call 800-709-8842 or write to its Consumer Inquiry Center. **Freeze: no** — report and dispute only. `Free`
+
+### 💡 Utilities
+
+- **[NCTUE](https://nctue.com/consumer/)** — The National Consumer Telecom & Utilities Exchange tracks phone, TV and utility accounts: applications, payments, late payments and charge-offs. A bad file can mean a deposit before a company will turn on your service. Free report once every 12 months (866-349-5185); disputes at 866-343-2821. **Freeze: yes** — call 866-349-5355 or use its consumer page. It takes fraud alerts too. `Free`
+
+### 🛍️ Store returns
+
+- **[The Retail Equation](https://www.theretailequation.com/)** — Tracks the things you return to stores that use its service. A bad file can get your next return refused at the register. Ask for your free Return Activity Report (email ReturnActivityReport@TheRetailEquation.com or call 800-652-2331), and dispute mistakes in writing. **Freeze: no** — report and dispute only. `Free`
 
 ## 🆔 Identity-Theft Recovery
 
@@ -223,11 +281,12 @@ Most consumer victories are won before anyone sees a courtroom — by the person
 
 ## The series
 
-The Breachnode field guides: one suite, three focused lists, one rule — **actionable or it doesn't ship.**
+The Breachnode field guides: one suite, four focused lists, one rule — **actionable or it doesn't ship.**
 
 1. **[Awesome Scam Defense](https://github.com/breachnode/awesome-scam-defense)** — Breachnode Field Guide № 1. Prevention, verification, containment.
 2. **Consumer Revenge Kit** — this list. Disputes, complaints, opt-outs, and the rights they don't advertise.
-3. **Veteran Arsenal** *(in development)* — benefits, grants and money veterans have earned and routinely never claim.
+3. **[Veteran Arsenal](https://github.com/breachnode/awesome-veteran-arsenal)** — Breachnode Field Guide № 3. Benefits, grants and money veterans have earned and routinely never claim.
+4. **[Print Your Own](https://github.com/breachnode/awesome-print-your-own)** — Breachnode Field Guide № 4. Grow what you keep: money management and investing, taught straight. Education only.
 
 ## License
 
